@@ -13,7 +13,7 @@ fun main(){
     val b = BaseImpl(10)
     Derived(b).printVale()
 
-    //lazy eg
+    //lazy keyword eg
     println(variable)
 }
 

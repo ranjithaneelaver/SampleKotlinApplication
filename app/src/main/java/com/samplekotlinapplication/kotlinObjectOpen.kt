@@ -6,8 +6,8 @@ fun main() {
 
     objectExample.getString()
 
-    //singleton
 
+    //singleton
     Singleton.name
     Singleton.getName()
 
