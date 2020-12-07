@@ -15,6 +15,7 @@ fun main(){
 
     //lazy keyword eg
     println(variable)
+
 }
 
 class BaseImpl(val x:Int):Base1 {

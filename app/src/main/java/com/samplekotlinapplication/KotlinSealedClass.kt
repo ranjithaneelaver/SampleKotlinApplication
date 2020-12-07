@@ -10,6 +10,10 @@ fun main() {
     eval(error)
 
 
+    //enum class
+    checkEnum(Names.LOADING)
+
+
 
 
 
@@ -56,4 +60,8 @@ fun checkEnum(names: Names) {
         Names.LOADING ->
             println("Loading Code ${names.status}")
     }
+}
+
+internal class ExampleNew{
+    var name:String?="ranjitha"
 }
