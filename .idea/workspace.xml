@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c816709f-453d-4b3a-bab0-0a3b98536ee1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_30" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SampleKotlinApplication" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lBcu11lfNtvmwrK3UzeRsRVzva" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-04T10:30:50.900Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Android/Sdk" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1607312596557" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.samplekotlinapplication.user.view" />
+      <recent name="com.samplekotlinapplication.user.model" />
+      <recent name="com.samplekotlinapplication.common.utility" />
+      <recent name="com.samplekotlinapplication.common" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.samplekotlinapplication.user.viewmodel" />
+      <recent name="com.samplekotlinapplication" />
+      <recent name="com.samplekotlinapplication.network" />
+      <recent name="com.samplekotlinapplication.configuration" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.samplekotlinapplication" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/samplekotlinapplication/user/model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/samplekotlinapplication" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/samplekotlinapplication/network" />
+    </key>
+    <key name="android.template.627599464">
+      <recent name="com.samplekotlinapplication" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.KotlinObjectOpenKt">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KotlinCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.samplekotlinapplication.KotlinCollectionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KotlinDelegationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.samplekotlinapplication.KotlinDelegationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KotlinExtensionFunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.samplekotlinapplication.KotlinExtensionFunKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KotlinHigherOrderLamdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.samplekotlinapplication.KotlinHigherOrderLamdasKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KotlinObjectOpenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.samplekotlinapplication.KotlinObjectOpenKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.KotlinObjectOpenKt" />
+        <item itemvalue="Kotlin.KotlinCollectionKt" />
+        <item itemvalue="Kotlin.KotlinExtensionFunKt" />
+        <item itemvalue="Kotlin.KotlinHigherOrderLamdasKt" />
+        <item itemvalue="Kotlin.KotlinDelegationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c816709f-453d-4b3a-bab0-0a3b98536ee1" name="Default Changelist" comment="" />
+      <created>1607074143792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607074143792</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1607175211244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607175211244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="239" y="118" key="#PSD" timestamp="1607093422307">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="239" y="118" key="#PSD/63.24.1303.744@63.24.1303.744" timestamp="1607093422307" />
+    <state x="179" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607093473523">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="179" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.24.1303.744@63.24.1303.744" timestamp="1607093473523" />
+    <state x="493" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1607269161962">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="493" y="102" key="#com.intellij.ide.util.MemberChooser/63.24.1303.744@63.24.1303.744" timestamp="1607269161962" />
+    <state x="140" y="310" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607080329119">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="140" y="310" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/63.24.1303.744@63.24.1303.744" timestamp="1607080329119" />
+    <state x="472" y="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1607080331446">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="472" y="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/63.24.1303.744@63.24.1303.744" timestamp="1607080331446" />
+    <state x="456" y="24" width="564" height="722" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1607082292338">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="456" y="24" width="564" height="722" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/63.24.1303.744@63.24.1303.744" timestamp="1607082292338" />
+    <state x="569" y="215" key="AndroidCreateXmlResourceDialog" timestamp="1607093916231">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="569" y="215" key="AndroidCreateXmlResourceDialog/63.24.1303.744@63.24.1303.744" timestamp="1607093916231" />
+    <state x="326" y="24" key="CommitChangelistDialog2" timestamp="1607175211010">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="326" y="24" key="CommitChangelistDialog2/63.24.1303.744@63.24.1303.744" timestamp="1607175211010" />
+    <state width="1257" height="186" key="GridCell.Tab.0.bottom" timestamp="1607312616521">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state width="1257" height="186" key="GridCell.Tab.0.bottom/63.24.1303.744@63.24.1303.744" timestamp="1607312616521" />
+    <state width="1257" height="186" key="GridCell.Tab.0.center" timestamp="1607312616520">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state width="1257" height="186" key="GridCell.Tab.0.center/63.24.1303.744@63.24.1303.744" timestamp="1607312616520" />
+    <state width="1257" height="186" key="GridCell.Tab.0.left" timestamp="1607312616519">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state width="1257" height="186" key="GridCell.Tab.0.left/63.24.1303.744@63.24.1303.744" timestamp="1607312616519" />
+    <state width="1257" height="186" key="GridCell.Tab.0.right" timestamp="1607312616520">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state width="1257" height="186" key="GridCell.Tab.0.right/63.24.1303.744@63.24.1303.744" timestamp="1607312616520" />
+    <state x="208" y="24" key="SettingsEditor" timestamp="1607093440875">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="208" y="24" key="SettingsEditor/63.24.1303.744@63.24.1303.744" timestamp="1607093440875" />
+    <state x="314" y="116" key="Vcs.Push.Dialog.v2" timestamp="1607175213167">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="314" y="116" key="Vcs.Push.Dialog.v2/63.24.1303.744@63.24.1303.744" timestamp="1607175213167" />
+    <state width="300" height="90" key="javadoc.popup.new" timestamp="1607269198107">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state width="300" height="90" key="javadoc.popup.new/63.24.1303.744@63.24.1303.744" timestamp="1607269198107" />
+    <state x="378" y="168" key="run.anything.popup" timestamp="1607149451256">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="378" y="168" key="run.anything.popup/63.24.1303.744@63.24.1303.744" timestamp="1607149451256" />
+    <state x="377" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1607255583388">
+      <screen x="63" y="24" width="1303" height="744" />
+    </state>
+    <state x="377" y="88" width="672" height="678" key="search.everywhere.popup/63.24.1303.744@63.24.1303.744" timestamp="1607255583388" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/samplekotlinapplication/variables/kotlinVariables.kt</url>
+          <line>11</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/samplekotlinapplication/kotlinDelegation.kt</url>
+          <line>10</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SampleKotlinApplication$KotlinVariablesKt.ic" NAME="KotlinVariablesKt Coverage Results" MODIFIED="1607095345685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleKotlinApplication</string>
+    <string name="login">Login</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="variables">Variables</string>
+    <string name="scopefunction">Scopefuncton</string>
+</resources>
